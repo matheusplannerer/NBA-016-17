@@ -1,5 +1,5 @@
 # Triple Doubles relations to winning
-In the course 'Foundations of Sports Analytics', I got the opportunity to play with some data from the 71st NBA season (2016 - 2017). This made me nostalgic. I recall being mesmerized by Westbrook's feat, averaging a triple during a whole season does not happen everyday, actually, this only happened over 50 years ago, no wonder he became that season's MVP. https://youtu.be/VCIKek1f-Hs?t=179
+In the course 'Foundations of Sports Analytics', I got the opportunity to play with some data from the 71st NBA season (2016 - 2017). This made me nostalgic. I recall being mesmerized by Westbrook's feat, averaging a triple during a whole season does not happen everyday, actually, this only happened over 50 years ago, no wonder he became that season's MVP.
 
 These are some fun facts about the triple-double:
 - The first one recorded in league history was made by Andy Phillip (Philadelphia Warriors) on December 14, 1950, versus the Fort Wayne Pistons. He had 17 points, 10 rebounds, and 10 assists.
@@ -18,6 +18,5 @@ The main perpetrator is Russell Westbrook, his methods to pile up stat lines oft
 - Career leaders in the stat
 
 2) Relation between the TD and the teams win
-https://www.youtube.com/watch?v=zY4oSeaCGgo
 
 4) Is this relation causation or a correlation?
