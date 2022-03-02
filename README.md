@@ -1,5 +1,5 @@
 # Triple Doubles relations to winning
-In the course 'Foundations of Sports Analytics', I got the opportunity to play with the data from the 71st NBA season (2016 - 2017). This got me nostalgic. I recall being mesmerized by Westbrook's feat, averaging a triple during a whole season is not for everyone, actually, this only happened over 50 years ago, that's why he became that season's MVP. https://youtu.be/VCIKek1f-Hs?t=179
+In the course 'Foundations of Sports Analytics', I got the opportunity to play with some data from the 71st NBA season (2016 - 2017). This got me nostalgic. I recall being mesmerized by Westbrook's feat, averaging a triple during a whole season is not for everyone, actually, this only happened over 50 years ago, that's why he became that season's MVP. https://youtu.be/VCIKek1f-Hs?t=179
 
 The triple-double is synonymous with an amazing performance, however by each season this once fleeting stat has become more common, because of that, the triple-double has lost its legendary status, as players seem to be chasing the stat line putting their box score above their team's win. At least it's something some of us, fans, think. 
 
