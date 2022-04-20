@@ -1,4 +1,4 @@
-# Triple Doubles relations to winning
+# Triple Doubles relations to winning [In progress]
 In the course 'Foundations of Sports Analytics', I got the opportunity to play with some data from the 71st NBA season (2016 - 2017). This made me nostalgic. I recall being mesmerized by Westbrook's feat, averaging a triple during a whole season does not happen everyday, actually, this only happened over 50 years ago, no wonder he became that season's MVP.
 
 These are some fun facts about the triple-double:
